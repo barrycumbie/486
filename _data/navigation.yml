@@ -1,0 +1,23 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Lessons"
+    url: /lessons/
+  - title: "Code Guides"
+    url: /code/
+  - title: "Projects"
+    url: /projects/
+  - title: "Handouts"
+    url: /handouts/
+  - title: "Exams"
+    url: /exams/
+  - title: "Articles"
+    url: /articles/
+  - title: "Forms"
+    url: /forms/
+  - title: "Reflections"
+    url: /reflections/
+  - title: "Downloads"
+    url: /downloads/
