@@ -6,8 +6,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-url: "localhost"
-baseurl: ""
+url: "https://barrycumbie.github.io"
+baseurl: "/486"
 
 navigation:
   - title: "Schedule"
