@@ -1,3 +1,24 @@
-title: 486 Course Site
-theme: minima
-repository: barrycumbie/486
+title: CIS 486 — Projects in Information Systems
+description: Capstone IS course materials
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+url: "https://barrycumbie.github.io"
+baseurl: "/486"
+
+navigation:
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Info"
+    url: /info/
+  - title: "Blog"
+    url: /blog/
+  - title: "Lessons"
+    url: /lessons/
+  - title: "Lectures"
+    url: /lectures/
+  - title: "Assignments"
+    url: /assignments/

@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome to 486 Course Site
+layout: splash
+title: "CIS 486 — Projects in Information Systems"
 ---
 
-Welcome to 486 Course Site!
+Welcome to CIS 486! Use the navigation above to explore schedule, info, blog, lessons, lectures, and assignments.
